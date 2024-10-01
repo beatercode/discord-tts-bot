@@ -34,8 +34,10 @@
     "axios": "^0.25.0",
     "deepmerge": "^4.2.2",
     "discord.js": "^13.6.0",
+    "ffmpeg-static": "^5.0.0",
     "google-tts-api": "^2.0.2",
     "level": "^7.0.1",
+    "node": "^16.10.0",
     "redis": "^4.0.2",
     "tweetnacl": "^1.0.3"
   },
